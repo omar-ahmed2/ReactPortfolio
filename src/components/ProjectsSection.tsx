@@ -7,7 +7,7 @@ const projects = [
     description: 'A responsive admin dashboard for an e-commerce platform with real-time sales data, inventory management, and customer analytics. Features include dark mode, responsive tables, and interactive charts.',
     image: 'src/Dashboard.jpg',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Chart.js', 'Redux'],
-    demoLink: 'https://example.com',
+    demoLink: 'https://adminpro-omar.netlify.app/',
     githubLink: 'https://github.com/omar-ahmed2/AdminPro'
   },
   {

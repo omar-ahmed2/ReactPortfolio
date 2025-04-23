@@ -1,7 +1,10 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/AdminPro/', // ← حط اسم الريبو هنا بالظبط
+  optimizeDeps: {
+    exclude: ['lucide-react'],
+  },
 });
