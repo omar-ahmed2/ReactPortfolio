@@ -8,7 +8,7 @@ const projects = [
     image: 'src/Dashboard.jpg',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Chart.js', 'Redux'],
     demoLink: 'https://example.com',
-    githubLink: 'https://github.com'
+    githubLink: 'https://github.com/omar-ahmed2/AdminPro'
   },
   {
     title: 'Headphone Landing Page',
