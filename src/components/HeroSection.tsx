@@ -72,7 +72,7 @@ const HeroSection = () => {
                 View My Work <ArrowRightCircle size={18} />
               </a>
               <a 
-                href="public/images/my-cv.pdf" 
+                href="/images/my-cv.pdf" 
                 className="py-3 px-6 rounded-full bg-transparent border border-gray-600 text-gray-200 font-medium transition-all duration-300 hover:bg-gray-800 hover:border-gray-500 flex items-center justify-center gap-2"
               >
                 Download CV <Download size={18} />

@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'E-Commerce Dashboard',
     description: 'A responsive admin dashboard for an e-commerce platform with real-time sales data, inventory management, and customer analytics. Features include dark mode, responsive tables, and interactive charts.',
-    image: 'public/images/Dashboard.jpg',
+    image: '/images/Dashboard.jpg',
     techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Chart.js', 'Redux'],
     demoLink: 'https://adminpro-omar.netlify.app/',
     githubLink: 'https://github.com/omar-ahmed2/AdminPro'
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Headphone Landing Page',
     description: 'A sleek and modern landing page for a headphone product. Features include a responsive design, smooth scrolling animations, and a clean layout that highlights product features and specifications.',
-    image: 'public/images/LandingPage.jpg',
+    image: '/images/LandingPage.jpg',
     techStack: ['HTML & CSS', 'JavaScript', 'Three.js', 'Spline', 'GSAP', 'AOS'],  
     demoLink: 'https://omar-ahmed2.github.io/Landing-Page/',
     githubLink: 'https://github.com/omar-ahmed2/Landing-Page'
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'gaming streaming platform',
     description: 'A gaming streaming platform that allows users to watch and stream live games. Features include user authentication, chat functionality, and a responsive design for mobile and desktop users.',
-    image: 'public/images/StreamArena.jpg',
+    image: '/images/StreamArena.jpg',
     techStack: ['HTML & CSS', 'Java Script', 'Tailwind', 'Three.js', 'Spline'],
     demoLink: 'https://omar-ahmed2.github.io/StreamArena/',
     githubLink: 'https://github.com/omar-ahmed2/StreamArena'
@@ -29,7 +29,7 @@ const projects = [
   {
     title: 'Chat Application',
     description: 'A real-time chat application that allows users to send and receive messages instantly. Features include user authentication, message history, and a responsive design for mobile and desktop users.',
-    image: 'public/images/ChatApp.jpg',
+    image: '/images/ChatApp.jpg',
     techStack: ['HTML & CSS', 'Java Script', 'Tailwind', 'Anime.js','Three.js', 'GSAP'],
     demoLink: 'https://omar-ahmed2.github.io/Chat-App/',
     githubLink: 'https://github.com/omar-ahmed2/Chat-App'
