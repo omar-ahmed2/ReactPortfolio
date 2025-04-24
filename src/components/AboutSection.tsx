@@ -71,7 +71,7 @@ const AboutSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-indigo-600/20 rounded-lg transform translate-x-3 translate-y-3"></div>
               <img 
-                src="src/Omar.jpg" 
+                src="src/components/public/images/Omar.jpg" 
                 alt="Profile" 
                 className="rounded-lg w-full h-auto relative z-10 object-cover aspect-ratio-1/1 shadow-lg"
               />
