@@ -117,7 +117,7 @@ const ContactSection = () => {
                     <Github size={20} />
                   </a>
                   <a 
-                    href="https://www.linkedin.com/in/omar-ahmed-888984353/" 
+                    href="https://www.linkedin.com/in/omarahmed2004/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-gray-700 hover:bg-gray-600 p-3 rounded-full text-gray-300 transition-colors duration-300"
