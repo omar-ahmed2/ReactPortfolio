@@ -49,7 +49,7 @@ const Footer = () => {
               <li>
                 <a href="tel:+1234567890" className="text-gray-400 hover:text-indigo-400 transition-colors duration-300 text-sm flex items-center">
                   <Phone size={12} className="mr-2" />
-                  +20 01025891909
+                  +20 1025891909
                 </a>
               </li>
               <li>
@@ -74,7 +74,7 @@ const Footer = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://www.linkedin.com/in/omar-ahmed-888984353/"
+                href="https://www.linkedin.com/in/omarahmed2004/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gray-800 hover:bg-gray-700 p-2 rounded-lg text-gray-400 hover:text-white transition-colors duration-300"
