@@ -16,7 +16,7 @@ const Navbar = () => {
 
   const socialLinks = [
     { icon: <Github size={20} />, href: 'https://github.com/omar-ahmed2', ariaLabel: 'GitHub' },
-    { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/omar-ahmed-888984353/', ariaLabel: 'LinkedIn' },
+    { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/omarahmed2004/', ariaLabel: 'LinkedIn' },
     { icon: <Mail size={20} />, href: 'https://mail.google.com/mail/?view=cm&fs=1&to=omarahmedt2460@gmail.com', ariaLabel: 'Email' },
   ];
 
